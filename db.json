@@ -11,8 +11,8 @@
   "teams": [
     { "id": 1, "name": "Andy Walton", "position": "Manager" },
     { "id": 2, "name": "Fatou Cole", "position": "Team Captain" },
-    { "id": 2, "name": "Subhasree Murugan", "position": "Member" },
-    { "id": 2, "name": "Lorenzo Medina", "position": "Member" },
+    { "id": 3, "name": "Subhasree Murugan", "position": "Member" },
+    { "id": 4, "name": "Lorenzo Medina", "position": "Member" }
   ],
   "profile": {
     "name": "typicode"
