@@ -1,21 +1,9 @@
 {
-  "cities": [
+  "posts": [
     {
       "id": 1,
-      "city": "Pittsburgh"
-    },
-    {
-      "id": 2,
-      "city": "Palo Alto"
-    },
-    {
-      "id": 3,
-      "city": "Bangalore"
-    },
-    {
-      "id": 4,
-      "city": "Prague"
-    },
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
