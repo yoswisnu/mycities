@@ -1,9 +1,17 @@
 {
-  "posts": [
+  "cities": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "Jakarta"
+    },
+    {
+      "id": 2,
+      "name": "Pittsburgh"
+    },
+    {
+      "id": 3,
+      "name": "Palo Alto"
+    },
   ],
   "profile": {
     "name": "typicode"
