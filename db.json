@@ -1,17 +1,12 @@
 {
-  "cities": [
-    {
-      "id": 1,
-      "name": "Jakarta"
-    },
-    {
-      "id": 2,
-      "name": "Pittsburgh"
-    },
-    {
-      "id": 3,
-      "name": "Palo Alto"
-    }
+  "posts": [
+    { "id": 1, "city": "Jakarta" },
+    { "id": 2, "city": "Pittsburgh" },
+    { "id": 3, "city": "Palo Alto" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
